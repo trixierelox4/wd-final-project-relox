@@ -308,42 +308,46 @@ section{
     color: var(--black);
 }
 
+
 .review .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 1.5em;
+    grid-template-columns: repeat(auto-fit,minmax(30rem, 1fr));
+    gap: 1.5rem;
 }
 
 .review .box-container .box{
-    border: var(--border);
+    padding: 5rem;
     text-align: center;
-    padding: 3rem 2rem;
+    border: var(--border);
 }
 
-.review .box-container .box p{
-    font-size: 1.5rem;
-    line-height: 1.8;
-    color: #ccc;
-    padding:2rem 0;
-
-}
-
-.review .box-container .box .user{
-    height: 7rem;
-    width: 7rem;
-    border-radius: 50%;
-    object-fit: cover;
+.review .box-container .box img{
+    height: 10rem;
 }
 
 .review .box-container .box h3{
-    padding: 1rem 0;
-    font-size: 2rem;
     color: #fff;
+    font-size: 2rem;
+    padding: 1rem 0;
 }
 
-.review .box-container .box .stars i{
+.review .box-container .box p{
+    color: #fff;
     font-size: 1.5rem;
-    color: var(--main-color);
+    padding: .5rem o;
+}
+
+.review .box-container .box .p span{
+    font-size: 1.5rem;
+    text-decoration: line-through;
+}
+
+.review .box-container .box:hover{
+    background: #fff;
+}
+
+.review .box-container .box:hover > *{
+    color: var(--black);
 }
 
 .contact .row{
@@ -401,7 +405,7 @@ contact .row form .inputBox{
 .contact .row form .inputBox input{
     width: 100%;
     padding: 2rem;
-    font-size: 1.7rem;
+    font-size: 2.7rem;
     color: #fff;
     text-transform: none;
     background: none;
