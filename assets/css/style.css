@@ -127,7 +127,7 @@ section{
     height: 5rem;
     display: flex;
     align-items: center;
-    transform: scaleY(0);
+    transform: scaleY(1);
     transform-origin: top;
 }
 
@@ -387,7 +387,7 @@ section{
     }
 }
 
-contact .row form .inputBox{
+.contact .row form .inputBox{
     display: flex;
     align-items: center;
     margin-top: 2rem;
@@ -405,7 +405,7 @@ contact .row form .inputBox{
 .contact .row form .inputBox input{
     width: 100%;
     padding: 2rem;
-    font-size: 2.7rem;
+    font-size: 1.7rem;
     color: #fff;
     text-transform: none;
     background: none;

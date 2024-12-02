@@ -5,22 +5,21 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+
+    <img src="./assets/img/Relox (1).png" alt="Relox Privé" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">Relox Privé Website</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  Crafted for the Refined Spirit
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+
+![](https://visit-counter.vercel.app/counter.png?page=trixierelox4/wd-final-project-relox)
 [![wakatime](https://wakatime.com/badge/user/a12d026a-db6b-44b4-99a9-6e8b759d6c96/project/4341adcc-7bb2-4251-86ff-ec102696016b.svg)](https://wakatime.com/badge/user/a12d026a-db6b-44b4-99a9-6e8b759d6c96/project/4341adcc-7bb2-4251-86ff-ec102696016b)
 ---
 
@@ -55,25 +54,59 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+1. What is the project?
+The Perfume Shop is an interactive and visually appealing e-commerce platform dedicated to showcasing a luxurious collection of fragrances. The website is designed to highlight the brand's exclusivity and artisanal craftsmanship through a refined user interface and engaging content.
+
+2. What’s the purpose?
+The purpose of the project is to:
+
+Promote luxury perfumes: Provide an elegant platform for customers to explore and purchase premium fragrances.
+Enhance brand identity: Establish Relox Privé as a high-end brand synonymous with sophistication and exclusivity.
+Offer a seamless user experience: Enable visitors to easily navigate, view product details, read reviews, and connect with the brand.
+Drive sales and engagement: Highlight the uniqueness of the perfumes to attract discerning customers.
+
+3. What are the key components?
+The platform is divided into distinct sections:
+
+Homepage: Welcomes users with a tagline and direct call-to-action for purchases.
+About Us: Tells the story of Relox Privé, emphasizing its unique qualities, craftsmanship, and luxurious approach.
+Products: Features detailed descriptions, high-quality images, and prices for six signature perfumes.
+Reviews: Displays testimonials from satisfied customers, reinforcing trust and brand credibility.
+Contact Us: Includes an embedded Google Map for location and a contact form for inquiries.
+Additional features:
+
+Interactive navigation with icons for search and menu.
+Responsive layout ensuring usability across devices.
+
+4. What technology is used and how is it used?
+The project utilizes the following technologies:
+
+HTML (HyperText Markup Language)
+Used to structure the website, define sections, and organize content like headers, product details, and forms.
+
+CSS (Cascading Style Sheets)
+Provides the visual design of the website, including layout, colors, fonts, and animations to ensure a luxurious aesthetic.
+
+JavaScript
+Adds interactivity, such as the functionality of the search bar, cart actions, and menu toggle.
+
+Font Awesome
+Supplies elegant icons for the search and menu, enhancing user experience and design consistency.
+
+Google Maps API
+Embeds a map in the contact section to display the shop's location.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+
+Multi-section Website: Features dedicated sections for the homepage, about us, products, reviews, and contact.
+Interactive Navigation: Includes a responsive header with navigation links and an interactive search bar.
+Product Showcase: Displays perfumes with high-quality images, descriptions, and pricing.
+Customer Reviews: Highlights testimonials from satisfied clients, adding authenticity.
+Contact Form: Provides a user-friendly form for customers to connect with the brand.
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -117,4 +150,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Font Awesome | Icon pack for design elements. | https://fontawesome.com/|
+|Google Maps Embed|Displaying the shop's location in the contact section.|https://g.co/kgs/nDLC3Mv|
+|Pinterest|High-quality visuals for perfumes and design.|https://ph.pinterest.com/pin/5348093299968902/
+https://ph.pinterest.com/pin/469289223690894753/
+|
